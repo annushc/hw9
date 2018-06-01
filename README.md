@@ -16,3 +16,8 @@
 
 <img src="https://github.com/annushc/hw9/blob/master/Задание%203.PNG" width="500" height="380" align="left"/> 
 <br clear="all"/> 
+
+#### **<Бонусное задание**
+
+<img src="" width="500" height="380" align="left"/> 
+<br clear="all"/> 
