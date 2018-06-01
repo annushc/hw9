@@ -19,5 +19,5 @@
 
 #### **<Бонусное задание**
 
-<img src="" width="500" height="380" align="left"/> 
+<img src="https://github.com/annushc/hw9/blob/master/Бонусное%20задание.PNG" width="500" height="380" align="left"/> 
 <br clear="all"/> 
